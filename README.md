@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./media/broad1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yaemiko Multidevices</h1>
+<h1 align="center">LanzxDev Multidevices</h1>
 
 
 ### 📮 S&K
@@ -18,4 +18,4 @@
 Author : Shirokami Ryzen 
 No : +6281387307198
 Thanks : Narutomo, Elaina, Ekuzika, David
-Recode : Zeltoria 
+Recode : LanzxDev
